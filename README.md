@@ -28,10 +28,8 @@ PASSWORD=yourapisecrettkey
 
 ```
 export const list = [1231231231, 12312312312, 123123123123 ]
-
+//Where the array members are the individual theme id's.
 ```
-
-Where the array members are the individual theme id's.
 
 -   You're ready to go. I recommend double checking that list because this process is NOT REVERSIBLE!!! By using this tool you agree that I am not responsible for you erasing your entire online store.
 
@@ -40,7 +38,3 @@ Where the array members are the individual theme id's.
 -   To run the file use the command `npx ts-node index.ts`
 
 -   Leave a star if you like it.
-
-```
-
-```
