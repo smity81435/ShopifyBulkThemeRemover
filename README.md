@@ -1,6 +1,6 @@
-# THEMECLEANER
+# ThemeCleaner
 
-## Shopify Bulk Theme Remover
+## The Bulk Shopify Theme Remover
 
 Utility for removing multiple themes from shopify quickly.
 
